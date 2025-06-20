@@ -15,6 +15,10 @@ header {
     min-height: 85vh;
 }
 
+.side_bg{
+    background-color: #483390;
+}
+
 #sidebutton {
     height: 100px;
 }
