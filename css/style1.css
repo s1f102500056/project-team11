@@ -13,8 +13,10 @@ header {
     text-shadow: 5px 5px 5px #fcf9f9;
 }
 
-.news-them{
-    background-color: #333;
+.news-thum{
+    background-color: #eee;
+    border: solid #3c57de 3px;
+    border-radius: 10px;
 }
 
 .container {

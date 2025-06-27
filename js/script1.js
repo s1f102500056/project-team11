@@ -12,5 +12,5 @@ document.addEventListener("DOMContentLoaded",function(){
         } else {
             side_button.textContent = "閉じる"
         }
-    })
+    });
 })
