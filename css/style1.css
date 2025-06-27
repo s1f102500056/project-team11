@@ -30,6 +30,7 @@ header {
 .side_bg {
     border-radius: 7px;
     background-color:#2d50ff;
+    color: white;
     height: 25px;
     white-space: nowrap;
 }
