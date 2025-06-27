@@ -17,6 +17,9 @@ header {
     background-color: #eee;
     border: solid #3c57de 3px;
     border-radius: 10px;
+    white-space: rap;
+    width: 350px;
+    height: 180px;
 }
 
 .container {
@@ -24,7 +27,6 @@ header {
     min-height: 85vh;
     width: 350px;
     height: 1000px;
-    white-space: nowrap;
 }
 
 .side_bg {
