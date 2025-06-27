@@ -29,6 +29,8 @@ header {
 .side_bg {
     border-radius: 7px;
     background-color:#2d50ff;
+    height: 25px;
+    white-space: nowrap;
 }
 
 #sidebutton {
