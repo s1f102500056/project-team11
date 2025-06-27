@@ -13,6 +13,10 @@ header {
     text-shadow: 5px 5px 5px #fcf9f9;
 }
 
+.news-them{
+    background-color: #333;
+}
+
 .container {
     display: flex;
     min-height: 85vh;
