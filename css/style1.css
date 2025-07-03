@@ -25,7 +25,9 @@ header {
 .container {
     display: flex;
     min-height: 85vh;
-    width: 350px;
+}
+
+.sidecontainer {
     height: 1000px;
 }
 

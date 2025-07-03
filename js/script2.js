@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded",function(){
                 title.textContent = article.title;
 
                 const content = document.createElement("p");
-                content.textContent = article.content;
+                content.innerHTML = article.content.replace(/\n/,'<br>');
 
                 articleContainer.appendChild(title);
                 articleContainer.appendChild(content)
