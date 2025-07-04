@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color:  rgb(2, 166, 178);
+    background-color:#2D5DD9;
     color: black;
     padding: 8px;
     text-align: center;
@@ -33,7 +33,7 @@ header {
 
 .side_bg {
     border-radius: 7px;
-    background-color:#2d50ff;
+    background-color:#4c6afe;
     color: white;
     height: 25px;
     white-space: nowrap;
